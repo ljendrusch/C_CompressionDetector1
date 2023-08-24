@@ -1,0 +1,14 @@
+{
+    "server_ipa": "192.168.0.234",
+    "port_tcp": "8787",
+    "s_port_udp": "9876",
+    "d_port_udp": "8765",
+    "d_port_headsyn": "9090",
+    "d_port_tailsyn": "9999",
+    "packet_num": "6000",
+    "packet_size": "1000",
+    "packet_ttl": "255",
+    "pause_time": "15",
+    "compression_threshold": "100",
+    "client_ipa": "192.168.0.123"
+}
